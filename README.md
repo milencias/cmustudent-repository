@@ -1,7 +1,7 @@
 # Milencia-Repository
 My public portfolio page for my Telling Stories with Data class at Carnegie Mellon University!
 
-# Aboutme
+# About me
 Here are a few things about me...
 
 # What I hope to learn
