@@ -1,4 +1,4 @@
-# Milencia-Repository
+# Portfolio
 My public portfolio page for my Telling Stories with Data class at Carnegie Mellon University!
 
 # About me
