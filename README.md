@@ -3,7 +3,7 @@ My public portfolio page for my Telling Stories with Data class at Carnegie Mell
 
 # About me
 Here are a few things about me: 
-My name is Milencia Saintus and I use she/her pronouns. I am a first year student in the Master of Science in Public Policy and Management program. A fun fact about me is that my birthday falls on Thanksgiving every couple of years. My hobbies include, reading, hiking, watching tv, learning anything and everything, and working out. I am interested in all thins data, manipulating data, extracting insights from data, presenting data, etc. I am also VERY excited about this class!
+My name is Milencia Saintus and I use she/her pronouns. I am a first year student in the Master of Science in Public Policy and Management program. A fun fact about me is that my birthday falls on Thanksgiving every couple of years. My hobbies include, reading, hiking, watching tv, learning anything and everything, working out, and completing puzzles! I am interested in all thing data, manipulating data, extracting insights from data, presenting data, etc. I am also VERY excited about this class!
 
 # What I hope to learn
 I hope to learn:
