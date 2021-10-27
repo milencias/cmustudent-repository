@@ -10,7 +10,8 @@ I hope to learn:
   1. Better ways to make my data visualizations accesible for all.
   2. Color theory to make my data visualizations more effective and engaging.
   3. How to best assess the most effective graphic for the story I am trying to tell with my data.
-  4. Once I graduate, I plan on becoming a data scientist, so this class is very important in my development as I will be working with data all the time.
+  
+Once I graduate, I plan on becoming a data scientist, so this class is very important in my development as I will be working with data all the time.
 
 # Portfolio
 Here is where all my cool work will be. So awesome right?! I'll be waiting for the job offer in my email :)
