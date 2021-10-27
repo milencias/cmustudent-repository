@@ -13,7 +13,7 @@ Here are a few things about me:
 I hope to learn:
   1. Better ways to make my data visualizations accesible for all.
   2. Color theory to make my data visualizations more effective and engaging.
-  3. How to best assess the most effective graphic for the story I presenting to tell with my data.
+  3. How to best assess the most effective graphic for the story I am trying to tell with my data.
 
 # Portfolio
 <div class="flourish-embed flourish-chart" data-src="visualisation/7640003"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
