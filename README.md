@@ -16,3 +16,6 @@ Once I graduate, I plan on becoming a data scientist, so this class is very impo
 # Portfolio
 Here is where all my cool work will be. So awesome right?! I'll be waiting for the job offer in my email :)
 <div class="flourish-embed flourish-chart" data-src="visualisation/7640003"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+[Another cool visualization](/dataviz2.md)
