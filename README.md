@@ -18,4 +18,4 @@ Here is where all my cool work will be. So awesome right?! I'll be waiting for t
 <div class="flourish-embed flourish-chart" data-src="visualisation/7640003"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-# [Another cool visualization](/dataviz2.md)
+# [Another cool visualization](/DataViz2.md)
