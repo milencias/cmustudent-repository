@@ -21,3 +21,4 @@ Here is where all my cool work will be. So awesome right?! I'll be waiting for t
 # Let's look at general government debt in 2020
 <iframe src="https://data.oecd.org/chart/6vii" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vii" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
+[Let's look at some general government debt](/DataViz2.md)
