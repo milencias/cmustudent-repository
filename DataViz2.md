@@ -10,7 +10,8 @@ Now let's look at general government debt from 1995 to 2019.
 
 
 # Data Visualization 3
-The second visualization was good but it could've be better. I created this third
+The second visualization was good but it could've be better. I created this third visualization to be clearer. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7690426"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+For the third visualization, I used a grouped column char
