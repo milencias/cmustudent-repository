@@ -19,3 +19,5 @@ Here is where all my cool work will be. So awesome right?! I'll be waiting for t
 
 
 # [Let's look at some general government debt!](/DataViz2.md)
+
+# [Now we will redesign a visiualization from scratch](/Assignment3&4:CritiquebyDesign.md)
