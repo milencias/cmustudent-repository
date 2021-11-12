@@ -1,10 +1,12 @@
 # Outline
 ## High-level Summary
-This project is going to show that in order to combat climate change and pollution effectively in America, the government needs to focus on fixing the environmental racism that its Jim Crow Laws bred.
+This project is going to show how low-income and minority communities of color face disproportionate effects of climate change and pollution.
 
 ## Project Structure
 ##### Introduction
-Brief introduction to how low-income, Hispanic, Black, and minority communities disproportionately face the impact of climate change. 
+Brief introduction to how low-income, Hispanic, Black, and minority communities disproportionately face the impact of climate change.
+  - Show statistics on how pollution affects these communities more.
+  - Things like incinerators are more likely to be built in the low-income communities. 
 
 #####
 America has been passing laws to better the pollution in 
