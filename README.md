@@ -22,4 +22,4 @@ Here is where all my cool work will be. So awesome right?! I'll be waiting for t
 
 # [Now we will redesign a visualization from scratch](/CritiquebyDesign.md)
 
-# [Now we will redesign a visualization from scratch](/final_project_MilenciaSaintus.md))
+# [Outline for Final Project](/final_project_MilenciaSaintus.md))
