@@ -3,9 +3,9 @@
 This project is going to show how low-income and minority communities of color face disproportionate effects of climate change and pollution.
 
 ## Project Structure
-  1. Setup: We are facing a climate crisis. 
-  2. Conflict:
-  3. Resolution:
+  1. Setup: We are facing a climate crisis in America. 
+  2. Conflict: We will not be able to effectively combat climate change and pollution if we do not adress the rampant environmental racism in America.
+  3. Resolution: If we setup new initiatives in these communities, use AI and data science to redeisng zoning laws and cut out gerrymandering, we will be able to reach our climate goals and reduce pollution.
 
 ##### Introduction
 Brief introduction to how low-income, Hispanic, Black, and minority communities disproportionately face the impact of climate change.
