@@ -9,7 +9,7 @@ Brief introduction to how low-income, Hispanic, Black, and minority communities 
   - Things like incinerators are more likely to be built in the low-income communities. 
 
 #####
-America has been passing laws to better the pollution in 
+America has been passing laws to better the pollution in k
 
 https://ourworldindata.org/water-access
 https://edg.epa.gov/metadata/catalog/main/home.page
