@@ -3,12 +3,15 @@
 This project is going to show how low-income and minority communities of color face disproportionate effects of climate change and pollution.
 
 ## Project Structure
+  1. Setup: We are facing a climate crisis. 
+  2. Conflict:
+  3. Resolution:
+
 ##### Introduction
 Brief introduction to how low-income, Hispanic, Black, and minority communities disproportionately face the impact of climate change.
   - Show statistics on how pollution affects these communities more.
   - Things like incinerators are more likely to be built in the low-income communities. 
 
-#####
 America has been passing laws to better the pollution in k
 
 https://ourworldindata.org/water-access
