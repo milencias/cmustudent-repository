@@ -13,15 +13,13 @@ This project is going to show how low-income and minority communities of color f
     - Show statistics on how pollution affects these communities more.
     - Things like incinerators are more likely to be built in the low-income communities. 
 
-America has been passing laws to better the pollution in k
 
+# Initial Sketches
+
+# The Data
 https://ourworldindata.org/water-access
 https://edg.epa.gov/metadata/catalog/main/home.page
 https://ourworldindata.org/outdoor-air-pollution
 https://www.amacad.org/publication/somewhere-between-jim-crow-post-racialism
 
-
-# Initial Sketches
-
-# The Data
 # Method and Medium
