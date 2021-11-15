@@ -21,5 +21,7 @@ https://ourworldindata.org/water-access
 https://edg.epa.gov/metadata/catalog/main/home.page
 https://ourworldindata.org/outdoor-air-pollution
 https://www.amacad.org/publication/somewhere-between-jim-crow-post-racialism
+https://www.census.gov/library/publications/2021/demo/p60-273.html
 
 # Method and Medium
+The medium that I plan on using with the Final Project is Shorthand. I have been experimenting with it and I think it will be the best place to showcase my final project. I want to build a specific story tying in how crucial it is for people to understand that we will never effectively comabt climate change and pollution if we do not focus on the low-income and minority communities of color who bear the brunt of environmental issues. Shorthand will allow me to be able to have a short summary at the beginning to at least get people interested and want to learn more about the topic. 
