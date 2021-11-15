@@ -17,11 +17,14 @@ This project is going to show how low-income and minority communities of color f
 # Initial Sketches
 
 # The Data
-https://ourworldindata.org/water-access
+https://www.census.gov/content/dam/Census/library/visualizations/2021/demo/p60-273/figure2.pdf
 https://edg.epa.gov/metadata/catalog/main/home.page
-https://ourworldindata.org/outdoor-air-pollution
+https://www.census.gov/library/stories/2021/02/air-pollution-diminishes-future-generations-economic-opportunities.html
 https://www.amacad.org/publication/somewhere-between-jim-crow-post-racialism
 https://www.census.gov/library/publications/2021/demo/p60-273.html
+https://gispub.epa.gov/air/trendsreport/2018/#unhealthy_aq_days
 
 # Method and Medium
-The medium that I plan on using with the Final Project is Shorthand. I have been experimenting with it and I think it will be the best place to showcase my final project. I want to build a specific story tying in how crucial it is for people to understand that we will never effectively comabt climate change and pollution if we do not focus on the low-income and minority communities of color who bear the brunt of environmental issues. Shorthand will allow me to be able to have a short summary at the beginning to at least get people interested and want to learn more about the topic. 
+The medium that I plan on using with the Final Project is Shorthand. I have been experimenting with it and I think it will be the best place to showcase my final project. I want to build a specific story tying in how crucial it is for people to understand that we will never effectively comabt climate change and pollution if we do not focus on the low-income and minority communities of color who bear the brunt of environmental issues. Shorthand will allow me to be able to have an engaging presentation that will convince people to learn more about my topic and want to take action.
+
+I also plan on using Tableau and Flourish to create my data visualizations. 
