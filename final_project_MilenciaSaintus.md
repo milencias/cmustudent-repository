@@ -47,4 +47,4 @@ The two places I plan on getting on getting my data from are the U.S. Census web
 # Method and Medium
 The medium that I plan on using with the Final Project is Shorthand. I have been experimenting with it and I think it will be the best place to showcase my final project. I want to build a specific story tying in how crucial it is for people to understand that we will never effectively comabt climate change and pollution if we do not focus on the low-income and minority communities of color who bear the brunt of environmental issues. Shorthand will allow me to be able to have an engaging presentation that will convince people to learn more about my topic and want to take action.
 
-I also plan on using Tableau and Flourish to create my data visualizations. 
+I also plan on using Tableau and Flourish to create my data visualizations. I will use Flourish for the quick graphics that I need. Floruish is very good for datasets that don't need much customization and it will allow me to make visualization quickly. I will use Flourish for the bigger datasets that need more work and customization. With these two tools I believe that I can make a beautiful story. 
