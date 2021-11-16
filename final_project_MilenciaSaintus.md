@@ -5,7 +5,7 @@ This project is going to show how low-income and minority communities of color f
 ## Project Structure
   1. Setup: We are facing an evironmental crisis in America. 
   2. Conflict: We will not be able to effectively combat climate change and pollution if we do not adress the rampant environmental racism in America.
-  3. Resolution: If we setup new initiatives in these communities, use AI and data science to redeisng zoning laws and cut out gerrymandering, we will be able to reach our climate goals and reduce pollution.
+  3. Resolution: If we setup new initiatives in these communities, use AI and data science to redesigning zoning laws and cut out gerrymandering, we will be able to reach our climate goals and reduce pollution.
 
 ##### Introduction
   1. Brief introduction to the climate crisis in America. Failing water pipes that leak lead, incinerators in communites causing lung cancer, etc.
