@@ -36,10 +36,15 @@ https://public.tableau.com/shared/XSPR75P3D?:display_count=n&:origin=viz_share_l
 
 # The Data
 https://www.census.gov/content/dam/Census/library/visualizations/2021/demo/p60-273/figure2.pdf
+
 https://edg.epa.gov/metadata/catalog/main/home.page
+
 https://www.census.gov/library/stories/2021/02/air-pollution-diminishes-future-generations-economic-opportunities.html
+
 https://www.amacad.org/publication/somewhere-between-jim-crow-post-racialism
+
 https://www.census.gov/library/publications/2021/demo/p60-273.html
+
 https://gispub.epa.gov/air/trendsreport/2018/#unhealthy_aq_days
 
 The two places I plan on getting on getting my data from are the U.S. Census website and the EPA website. The U.S. Census website will allow me to get data on things such as income and where low-income and minority communities of color live so that I can show the correlation between low-income and minority communities of color and where pollution is mostly concentrated. I will be able to find the data on the environmental state of the places that low-income and minority communities of color live in. I have already begun finding insightful data and figures that I can remodel to fit my story.
